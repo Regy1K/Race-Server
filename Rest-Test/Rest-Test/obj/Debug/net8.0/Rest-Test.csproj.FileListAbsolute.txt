@@ -1,0 +1,14 @@
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\bin\Debug\net8.0\Rest-Test.exe
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\bin\Debug\net8.0\Rest-Test.deps.json
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\bin\Debug\net8.0\Rest-Test.runtimeconfig.json
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\bin\Debug\net8.0\Rest-Test.dll
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\bin\Debug\net8.0\Rest-Test.pdb
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\obj\Debug\net8.0\Rest-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\obj\Debug\net8.0\Rest-Test.AssemblyInfoInputs.cache
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\obj\Debug\net8.0\Rest-Test.AssemblyInfo.cs
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\obj\Debug\net8.0\Rest-Test.csproj.CoreCompileInputs.cache
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\obj\Debug\net8.0\Rest-Test.dll
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\obj\Debug\net8.0\refint\Rest-Test.dll
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\obj\Debug\net8.0\Rest-Test.pdb
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\obj\Debug\net8.0\Rest-Test.genruntimeconfig.cache
+C:\Users\Regy1K\RiderProjects\Rest-Test\Rest-Test\obj\Debug\net8.0\ref\Rest-Test.dll

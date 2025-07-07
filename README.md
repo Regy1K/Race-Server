@@ -1,6 +1,3 @@
-# Race-Server
-Race App Server
-=======
 
 # C# Race Manager System
 
@@ -89,4 +86,3 @@ csharp/
 ## 📜 License
 
 For academic use only.
->>>>>>> bfd4db1 (Full Project Server)

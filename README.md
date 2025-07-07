@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Race-Server
 Race App Server
 =======
